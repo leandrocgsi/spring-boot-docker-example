@@ -49,3 +49,8 @@ http://<\<docker-host>\>:9090/api/echo-service/echo/remote-echo | Echo service c
 http://<\<docker-host>\>:9090/api/echo-service-by-dns/echo/remote-echo | Echo service through Zuul api gateway, located by DNS entry http://echo-service:9098 
 
 
+# Se especialize
+
+[<img src="https://github.com/leandrocgsi/SpringBootPlayground/blob/master/Images/banner_blog_udemy_course_sring_boot.jpg?raw=true">](https://www.udemy.com/restful-apis-do-0-a-nuvem-com-springboot-e-docker/?couponCode=GTHB_REPOS_SALE2019)
+
+
